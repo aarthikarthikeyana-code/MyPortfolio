@@ -8,10 +8,10 @@ An ultra-modern, premium, professional developer portfolio website landing page 
 - **Core Technologies:** Flutter & Dart, Python Django, Neon DB (Serverless PostgreSQL), Render Cloud, React.js, HTML5/CSS3, Tailwind CSS, Lucide Icons.
 - **Key Sections:**
   - **Navigation Bar:** Fixed frosted-glass navigation with AARTHI. branding, section links, and "Let's Talk" CTA.
-  - **Hero Section:** Split-layout with availability badge, gradient headline, full-stack mobile skills pills (*Flutter & Dart | Python Django | Neon DB | Render | React.js | Android & iOS*), dual action CTAs, and a stylized female software developer portrait with floating animated tech chips.
-  - **About Me:** Professional overview with 3 statistic cards (4+ Years Experience, 3.5 Years Mobile Development, Dual App Ecosystems).
+  - **Hero Section:** Split-layout with availability badge, gradient headline, full-stack mobile skills pills (*Flutter & Dart | Python Django | Neon DB | Render | React.js | Android Development*), dual action CTAs, and a stylized female software developer portrait with floating animated tech chips.
+  - **About Me:** Professional overview with 3 statistic cards (4+ Years Experience, 3.5 Years Mobile Development, Android Development Specialist).
   - **Technical Skills:** 4 categorized skill cards:
-    - Mobile Development (Flutter, Dart, Android, iOS, Responsive Mobile UI)
+    - Mobile Development (Flutter, Dart, Android Development, Cross-Platform Architecture, Responsive Mobile UI)
     - Frontend & UI/UX (React.js, ES6+, HTML5, CSS3, UI/UX Design)
     - Backend, APIs & Cloud DB (Python Django, DRF, Neon DB, Render, REST API, Postman)
     - Tools & Quality (Git, GitHub, VS Code, Agile, Scrum)
